@@ -7,8 +7,5 @@
     "start": "python bot.py"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "discord.py": ">=1.7.3"
-  }
+  "license": "ISC"
 }
